@@ -1,0 +1,64 @@
+*{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+	margin:0;
+	padding:0;
+	background-color:#333;
+	color:#CCC;
+	text-align:center;
+}
+nav{
+	font-size:22px;
+}
+
+form{
+	padding:20px;
+	padding-top:50px;
+	margin:auto;
+	text-align:left;
+	width:500px;
+}
+input, 
+button{
+	background:none;
+	padding:10px;
+	font:12pt arial;
+	color:#888;
+	border:solid 1px #888;
+	outline:none;
+	width:400px;
+	margin-top:6px;
+	margin-bottom:16px;
+	display:block;
+}
+input[type="submit"], 
+button{
+	background-color:#343a40;
+	border-color:#343a40;
+	color:#FFF;
+}
+
+#message{
+	text-align:left;
+	padding:20px;
+	background-color:#800;
+	border-top:dashed 1px #AAA;
+	border-bottom:dashed 1px #AAA;
+	color:white;
+}
+
+.p_logosize{width: 35px;}
+.p_minCorpSize{min-height: 400px;}
+.minichat{min-height: 300px;}
+.p_sizeImgShop{width: 5px; height: 5px;}
+.p_blog{
+	 width: 60%;
+	 margin-bottom: 2px;
+	 background-color: darkslategrey;
+	 color: #333;
+}
+.titreArtBlog{
+	background-color:cadetblue
+}
+
