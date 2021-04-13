@@ -6,7 +6,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Index </title>
         <meta charset="utf-8"/>
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" type="text/css" href="../CSS/style.css" />
